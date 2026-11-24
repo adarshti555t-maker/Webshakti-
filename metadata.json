@@ -1,0 +1,6 @@
+{
+  "name": "WEBSHAKTI AI",
+  "description": "WEBSHAKTI AI — Crisp White & Black 3D Website Generator Studio with 3 accent colors, 8 website builder tools, .html Download & Upload support, Web Creators team showcase, English/Hindi bilingual UI, and configurable WhatsApp contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
